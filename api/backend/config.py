@@ -1,0 +1,1 @@
+OPENAI_API_PROMPT = """Generate artificial data in the same format as the following data:"""
